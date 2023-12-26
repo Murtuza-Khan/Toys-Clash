@@ -1,0 +1,10 @@
+export '../../view/splash/splash.dart';
+export '../../view/dashboard/dashboard.dart';
+export '../../view/offline/offline_screen.dart';
+export '../../view/on_boarding/on_boarding.dart';
+export '../../view/login/login.dart';
+export '../../view/sign_up/sign_up.dart';
+export '../../view/home/home.dart';
+export '../../view/categories/categories.dart';
+export '../../view/all_products/all_products.dart';
+export '../../view/daily_deals/daily_deals.dart';

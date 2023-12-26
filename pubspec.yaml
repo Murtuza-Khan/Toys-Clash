@@ -1,0 +1,51 @@
+name: toys_clash
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  http: ^1.1.2
+  logger: ^2.0.2+1
+  responsive_framework: ^0.2.0
+  infinite_scroll_pagination: ^4.0.0
+  app_settings: ^5.1.1
+  shimmer: ^3.0.0
+  flutter_svg: ^2.0.9
+  image_picker: ^1.0.4
+  slide_countdown: ^1.4.0
+  get_storage: ^2.1.1
+  intl: ^0.18.1
+  cached_network_image: ^3.3.0
+  connectivity_plus: ^5.0.2
+  share_plus: ^7.2.1
+  flutter_html: ^3.0.0-beta.2
+  flutter_native_splash: ^2.3.8
+  encrypt: ^5.0.3
+  lottie: ^2.7.0
+  flutter_cache_manager: ^3.3.1
+  flutter_form_builder: ^9.1.1
+  enefty_icons: ^1.0.7
+  form_field_validator: ^1.1.0
+  carousel_slider: ^4.2.1
+  flutter_config: ^2.0.2
+  flutter_spinkit: ^5.2.0
+  firebase_core: ^2.24.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
